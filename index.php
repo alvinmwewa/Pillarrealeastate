@@ -33,9 +33,9 @@
 <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
 
 <!-- Preloader section -->
-<div class="preloader">
-    <div class="sk-spinner sk-spinner-pulse"></div>
-</div>
+<!--<div class="preloader">-->
+<!--    <div class="sk-spinner sk-spinner-pulse"></div>-->
+<!--</div>-->
 
 
 <!-- Home section -->
@@ -160,7 +160,7 @@
                         <h3 class="media-heading">Low interest loans</h3>
                         <p>flexible payment methods.</p>
                     </div>
-                    <a href="./loan.php" class="wow fadeInUp btn btn-danger  smoothScroll" data-wow-delay="1.3s">Get started</a>
+<!--                    <a href="./loan.php" class="wow fadeInUp btn btn-danger  smoothScroll" data-wow-delay="1.3s">Get started</a>-->
                 </div>
 
 <!--                <div class="media wow fadeInUp" data-wow-delay="0.9s">-->
@@ -196,7 +196,7 @@
                         <h3 class="media-heading">Affordable Car Hire</h3>
                         <p>Purchase or hire Vehicles at a price tailored just for you.</p>
                     </div>
-                    <a href="./car.php" class="wow fadeInUp btn btn-danger" data-wow-delay="1.3s">Get started</a>
+<!--                    <a href="./car.php" class="wow fadeInUp btn btn-danger" data-wow-delay="1.3s">Get started</a>-->
                 </div>
 
 <!--                <div class="media wow fadeInUp" data-wow-delay="1.3s">-->
@@ -231,7 +231,7 @@
                         <h3 class="media-heading">Cheap plots</h3>
                         <p>Cheap plots from as low as K4,900.</p>
                     </div>
-                    <a href="plots.php" class="wow fadeInUp btn btn-danger  smoothScroll" data-wow-delay="1.3s">Get started</a>
+<!--                    <a href="plots.php" class="wow fadeInUp btn btn-danger  smoothScroll" data-wow-delay="1.3s">Get started</a>-->
                 </div>
 
             </div>
@@ -370,7 +370,7 @@
             <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.1s">
                 <div class="join-team">
                     <i class="fa fa-plus"></i>
-                    <p>Fusce interdum libero id libero volutpat varius convallis at sem.</p>
+                    <p>Come be a part of a strong foundation.</p>
                     <a href="#" class="btn btn-default hvr-bounce-to-bottom">JOIN US</a>
                 </div>
             </div>
@@ -378,13 +378,13 @@
             <div class="clearfix"></div>
 
             <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.3s">
-                <h2>our Promos</h2>
-                <p>Fusce lobortis quis nisl nec facilisis. Donec fringilla ipsum arcu, quis maximus est molestie eget. Nunc ullamcorper suscipit neque, ac malesuada purus molestie non. Phasellus sollicitudin urna sed ultrices dictum.</p>
+<!--                <h2>our Promos</h2>-->
+<!--                <p>Fusce lobortis quis nisl nec facilisis. Donec fringilla ipsum arcu, quis maximus est molestie eget. Nunc ullamcorper suscipit neque, ac malesuada purus molestie non. Phasellus sollicitudin urna sed ultrices dictum.</p>-->
             </div>
 
             <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s">
-                <h2>Our Service</h2>
-                <p>Maecenas dictum cursus dui, quis mattis eros ultricies sed. Maecenas ligula nulla, dictum eu cursus id, semper in orci. Fusce vel nisi hendrerit justo viverra vehicula in nec nunc. Curabitur blandit fringilla quam.</p>
+<!--                <h2>Our Service</h2>-->
+<!--                <p>Maecenas dictum cursus dui, quis mattis eros ultricies sed. Maecenas ligula nulla, dictum eu cursus id, semper in orci. Fusce vel nisi hendrerit justo viverra vehicula in nec nunc. Curabitur blandit fringilla quam.</p>-->
             </div>
 
         </div>
