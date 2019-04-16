@@ -1,7 +1,7 @@
 
 <?php
 
-    $to = "pillarrealestate@gmail.com";
+    $to = "pillarestate@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $cmessage = $_REQUEST['message'];
