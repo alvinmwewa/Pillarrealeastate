@@ -40,13 +40,13 @@
             <li><span class="filter active" data-filter="app card icon logo web">All</span></li>
         </ul>
         <div id="portfoliolist" style="     ">
-            <div class="portfolio logo1 mix_all" data-cat="logo" style="display: inline-block; opacity: 1;">
-                <div class="portfolio-wrapper">
-                    <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
-                        <img src="images/13.jpg" alt="Image 2" style="top: 0px;">
-                    </a>
-                </div>
-            </div>
+<!--            <div class="portfolio logo1 mix_all" data-cat="logo" style="display: inline-block; opacity: 1;">-->
+<!--                <div class="portfolio-wrapper">-->
+<!--                    <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">-->
+<!--                        <img src="images/13.jpg" alt="Image 2" style="top: 0px;">-->
+<!--                    </a>-->
+<!--                </div>-->
+<!--            </div>-->
             <div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
                 <div class="portfolio-wrapper">
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
@@ -60,7 +60,7 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/15.jpg" alt="Image 2" style="top: 0px;">
                     </a>
-                    <p>card</p>
+                    <p>web</p>
                 </div>
             </div>
             <div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
@@ -68,7 +68,7 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/13.jpg" alt="Image 2" style="top: 0px;">
                     </a>
-                    <p>icon</p>
+                    <p>card</p>
                 </div>
             </div>
 
@@ -85,13 +85,17 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/15.jpg" alt="Image 2" style="top: 0px;">
                     </a>
+                    <p>card</p>
+
                 </div>
             </div>
             <div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
                 <div class="portfolio-wrapper">
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
-                        <img src="images/13.jpg" alt="Image 2" >
+                        <img src="images/13.jpg" alt="Image 2">
                     </a>
+                    <p>App</p>
+
                 </div>
             </div>
 
@@ -100,6 +104,7 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/14.jpg" alt="Image 2" style="top: 0px;">
                     </a>
+                    <p>card</p>
                 </div>
             </div>
         </div>
