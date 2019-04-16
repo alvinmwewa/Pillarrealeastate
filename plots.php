@@ -3,6 +3,7 @@
 <head>
     <title>Pillar Real Estate Plots</title>
     <link href="css/style3.css" rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
     </script>
@@ -52,15 +53,18 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/14.jpg" alt="Image 2" style="top: 0px;">
                     </a>
+                    <img src="images/14.jpg" alt="Image 2" style="top: 0px;">
                     <p>App</p>
                 </div>
             </div>
             <div class="portfolio web mix_all" data-cat="web" style="display: inline-block; opacity: 1;">
                 <div class="portfolio-wrapper">
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
-                        <img src="images/15.jpg" alt="Image 2" style="top: 0px;">
+                        <img src="/images/15.jpg" alt="Image 2" width="800" height="600">
                     </a>
+                    <img src="/images/15.jpg" alt="Image 2" style="top: 0px;">
                     <p>web</p>
+
                 </div>
             </div>
             <div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
@@ -68,6 +72,7 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/13.jpg" alt="Image 2" style="top: 0px;">
                     </a>
+                    <img src="images/13.jpg" alt="Image 2" style="top: 0px;">
                     <p>card</p>
                 </div>
             </div>
@@ -77,6 +82,8 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/14.jpg" alt="Image 2" style="top: 0px;">
                     </a>
+                    <img src="images/14.jpg" alt="Image 2" style="top: 0px;">
+                    <p>app</p>
                 </div>
             </div>
 
@@ -85,6 +92,8 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/15.jpg" alt="Image 2" style="top: 0px;">
                     </a>
+                    <img src="images/15.jpg" alt="Image 2" style="top: 0px;">
+
                     <p>card</p>
 
                 </div>
@@ -94,6 +103,7 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/13.jpg" alt="Image 2">
                     </a>
+                    <img src="images/13.jpg" alt="Image 2">
                     <p>App</p>
 
                 </div>
@@ -104,6 +114,7 @@
                     <a class="popup-with-zoom-anim zoom pink" href="#small-dialog1">
                         <img src="images/14.jpg" alt="Image 2" style="top: 0px;">
                     </a>
+                    <img src="images/14.jpg" alt="Image 2" style="top: 0px;">
                     <p>card</p>
                 </div>
             </div>
@@ -153,5 +164,8 @@
         });
     </script>
 
+
+<!--    <script src="js/jquery.js"></script>-->
+    <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
